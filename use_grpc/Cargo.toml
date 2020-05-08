@@ -1,0 +1,17 @@
+[package]
+name = "use_grpc"
+version = "0.1.0"
+authors = ["anonymousGiga <cryptonymGong@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+protobuf = "2"
+grpc = "0.7.1"
+grpc-protobuf = "0.7.1"
+futures = "0.3.*"
+tls-api = "0.3.*"
+
+[build-dependencies]
+protoc-rust-grpc = "0.7.1"
