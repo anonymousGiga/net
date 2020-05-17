@@ -1,0 +1,13 @@
+/home/andy/source/rust/rust_course/net/tftp/use_tftp/target/rls/debug/deps/net2-22f45cd61a793eb3.rmeta: /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/lib.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/tcp.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/udp.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/socket.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/ext.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/utils.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/sys/unix/mod.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/sys/unix/impls.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/unix.rs
+
+/home/andy/source/rust/rust_course/net/tftp/use_tftp/target/rls/debug/deps/net2-22f45cd61a793eb3.d: /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/lib.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/tcp.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/udp.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/socket.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/ext.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/utils.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/sys/unix/mod.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/sys/unix/impls.rs /home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/unix.rs
+
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/lib.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/tcp.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/udp.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/socket.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/ext.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/utils.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/sys/unix/mod.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/sys/unix/impls.rs:
+/home/andy/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/net2-0.2.34/src/unix.rs:
